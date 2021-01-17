@@ -11,8 +11,8 @@ Where possible I've included a link to the final published PDF of the publicatio
 ## Preprints
 
 1. A Sriram, **MJ Muckley**, K Sinha, F Shamout, J Pineau, KJ Geras, L Azour, Y Aphinyanaphongs, N Yakubova, W Moore. [COVID-19 deterioration prediction via self-supervised representation learning and multi-image prediction](https://arxiv.org/abs/2101.04909). *arXiv preprint arXiv:2101.04909* ,2021. [[Preprint PDF]](https://arxiv.org/pdf/2101.04909.pdf)
-1. **MJ Muckley**, B Riemenschneider, A Radmanesh, S Kim, G Jeong, J Ko, Y Jun, H Shin, D Hwang, M Mostapha, *et al.* [State-of-the-art machine learning MRI reconstruction in 2020: Results of the second fastMRI challenge](https://arxiv.org/abs/2012.06318). arXiv preprint arXiv:2012.06318, 2020. [[Preprint PDF]](https://arxiv.org/pdf/2012.06318.pdf)
-1. J Zbontar, F Knoll, A Sriram, T Murrell, Z Huang, **MJ Muckley**, A Defazio, R Stern, P Johnson, M Bruno, *et al.* [fastMRI: An open dataset and benchmarks for accelerated MRI](https://arxiv.org/abs/1811.08839). arXiv preprint arXiv:1811.08839, 2018. [[Preprint PDF]](https://arxiv.org/pdf/1811.08839.pdf)
+1. **MJ Muckley**, B Riemenschneider, A Radmanesh, S Kim, G Jeong, J Ko, Y Jun, H Shin, D Hwang, M Mostapha, *et al.* [State-of-the-art machine learning MRI reconstruction in 2020: Results of the second fastMRI challenge](https://arxiv.org/abs/2012.06318). *arXiv preprint arXiv:2012.06318*, 2020. [[Preprint PDF]](https://arxiv.org/pdf/2012.06318.pdf)
+1. J Zbontar, F Knoll, A Sriram, T Murrell, Z Huang, **MJ Muckley**, A Defazio, R Stern, P Johnson, M Bruno, *et al.* [fastMRI: An open dataset and benchmarks for accelerated MRI](https://arxiv.org/abs/1811.08839). *arXiv preprint arXiv:1811.08839*, 2018. [[Preprint PDF]](https://arxiv.org/pdf/1811.08839.pdf)
 
 ## Journal and High-Impact Conference Articles
 
@@ -59,4 +59,4 @@ Where possible I've included a link to the final published PDF of the publicatio
 1. **MJ Muckley**, SJ Peltier, DC Noll, JA Fessler. [Model-based reconstruction for physiological noise correction in functional MRI](https://www.ismrm.org/13/tp08.htm). In *ISMRM*, page 2623, 2013. [[PDF]](/assets/publications/2013muckleymodel.pdf)
 1. **MJ Muckley**, SJ Peltier, JA Fessler, DC Noll. [Group sparsity reconstruction for physiological noise correction in functional MRI](https://www.ismrm.org/workshops/Data13/program.htm). In *ISMRM Data Sampling & Image Reconstruction Workshop*, 2013. [[PDF]](/assets/publications/2013muckleygroup.pdf)
 1. **M Muckley**, S Agcaoglu, Z Zhong, H Zhao, M Grisham, D Karcher, M Orth, M Lilburn, O Akkus. [The effect of selective breeding for body weight on geometric properties in turkey femurs](https://doi.org/10.1115/SBC2011-53271). In *ASME*, pages 901–902, 2011.
-1. Z Zhong, S Agcaoglu, **M Muckley**, H Zhao, D Karcher, M Orth, M Lilburn, O Akkus. [Changes in turkey femora mechanical properties resulting from selective breeding for body weight](https://doi.org/10.1115/SBC2011-53115). In *ASME*, pages 897–898, 2011
+1. Z Zhong, S Agcaoglu, **M Muckley**, H Zhao, D Karcher, M Orth, M Lilburn, O Akkus. [Changes in turkey femora mechanical properties resulting from selective breeding for body weight](https://doi.org/10.1115/SBC2011-53115). In *ASME*, pages 897–898, 2011.
