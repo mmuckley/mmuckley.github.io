@@ -112,7 +112,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mattmucklm"
     - label: "LinkedIn"
-      icon: "fa fa-linkedin-square"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/matthew-muckley-33a9b558"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
