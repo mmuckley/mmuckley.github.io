@@ -100,7 +100,7 @@ author:
   avatar           : /assets/images/bio-photo.jpg
   bio              : "Research Engineer"
   location         : "New York, NY"
-  email            : #"mmuckley@fb.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -111,6 +111,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mattmucklm"
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin-square"
+      url: "https://www.linkedin.com/in/matthew-muckley-33a9b558"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mmuckley"
