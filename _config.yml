@@ -121,7 +121,7 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Iz9v6dcAAAAJ&hl=en"
     - label: "ORCID"
-      icon: "fas fa-id-card"
+      icon: "fas fa-fw fa-id-card"
       url: "https://orcid.org/0000-0002-6525-8817"
 
 # Site Footer
