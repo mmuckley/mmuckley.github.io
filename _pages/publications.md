@@ -3,6 +3,7 @@ title: "Publications"
 layout: publication
 permalink: /publications/
 toc: true
+toc_sticky: true
 toc_label: "Publication Type"
 ---
 
