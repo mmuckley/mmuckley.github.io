@@ -4,9 +4,7 @@ layout: publication
 permalink: /publications/
 ---
 
-In the groupings of publications below I've included a category of "Journal and High-Impact Conference Articles". For computer science, conference articles typically have a rigorous peer-review process for papers similar to that for journal articles in other fields. Articles at non-CS conferences have been listed in a separate sections for workshops and proceedings papers.
-
-Where possible I've included a link to the final published PDF of the publication. If it wasn't available, I've tried to substitute a link to a preprint. Note that there may be substantive differences between preprints and the final product, so please go to the journal/conference website to access the final version if possible.
+You can also find my articles on my [Semantic Scholar Profile](https://www.semanticscholar.org/author/Matthew-Muckley/2954796).
 
 ## Preprints
 
