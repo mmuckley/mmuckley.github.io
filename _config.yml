@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Matthew Muckley"
   avatar           : /assets/images/bio-photo.jpg
-  bio              : "Research Engineer\nFacebook AI Research"
+  bio              : "Research Engineer<br/>Facebook AI Research"
   location         : "New York, NY"
   email            :
   links:
