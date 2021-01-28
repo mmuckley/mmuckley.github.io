@@ -11,7 +11,7 @@ You can also find my articles on my [Semantic Scholar Profile](https://www.seman
 
 ## Preprints
 
-1. A Sriram, **MJ Muckley**, K Sinha, F Shamout, J Pineau, KJ Geras, L Azour, Y Aphinyanaphongs, N Yakubova, W Moore. [COVID-19 deterioration prediction via self-supervised representation learning and multi-image prediction](https://arxiv.org/abs/2101.04909). *arXiv preprint arXiv:2101.04909*, 2021. [[Preprint PDF]](https://arxiv.org/pdf/2101.04909.pdf)
+1. A Sriram, **MJ Muckley**, K Sinha, F Shamout, J Pineau, KJ Geras, L Azour, Y Aphinyanaphongs, N Yakubova, W Moore. [COVID-19 Prognosis via Self-Supervised Representation Learning and Multi-Image Prediction](https://arxiv.org/abs/2101.04909). *arXiv preprint arXiv:2101.04909*, 2021. [[Preprint PDF]](https://arxiv.org/pdf/2101.04909.pdf)
 1. **MJ Muckley**, B Riemenschneider, A Radmanesh, S Kim, G Jeong, J Ko, Y Jun, H Shin, D Hwang, M Mostapha, *et al.* [State-of-the-art machine learning MRI reconstruction in 2020: Results of the second fastMRI challenge](https://arxiv.org/abs/2012.06318). *arXiv preprint arXiv:2012.06318*, 2020. [[Preprint PDF]](https://arxiv.org/pdf/2012.06318.pdf)
 1. J Zbontar, F Knoll, A Sriram, T Murrell, Z Huang, **MJ Muckley**, A Defazio, R Stern, P Johnson, M Bruno, *et al.* [fastMRI: An open dataset and benchmarks for accelerated MRI](https://arxiv.org/abs/1811.08839). *arXiv preprint arXiv:1811.08839*, 2018. [[Preprint PDF]](https://arxiv.org/pdf/1811.08839.pdf)
 
