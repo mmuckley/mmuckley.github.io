@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Matthew Muckley"
-title_separator          : "-"
-subtitle                 : "Research Engineer" # site tagline that appears below site title in masthead
+title_separator          : # "-"
+subtitle                 : # "Research Engineer" # site tagline that appears below site title in masthead
 name                     : "Matthew Muckley"
 description              : "Research Engineer"
 url                      : https://mmuckley.github.io # https://mmuckley.github.io, http://localhost:4000
