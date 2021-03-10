@@ -50,7 +50,8 @@ You can also find my articles on my [Semantic Scholar Profile](https://www.seman
 
 ## Conference Abstracts
 
-1. **MJ Muckley**, T Murrell, S Booshan, H Chandarana, F Knoll, K Sodickson. [Unsupervised reconstruction of continuous dynamic radial acquisitions via CNN-NUFFT self-consistency](https://www.ismrm.org/20/program_files/DP09-04.htm). In *ISMRM*, 2020.
+1. B Riemenschneider, **MJ Muckley**, A Radmanesh, S Kim, G Jeong, J Ko, Y Jun, H Shin, D Hwang, M Mostapha, *et al.* Results of the 2020 fastMRI brain reconstruction challenge. In Proceedings of the International Society for Magnetic Resonance in Medicine, 2021. To appear.
+1. **MJ Muckley**, T Murrell, S Booshan, H Chandarana, F Knoll, DK Sodickson. [Unsupervised reconstruction of continuous dynamic radial acquisitions via CNN-NUFFT self-consistency](https://www.ismrm.org/20/program_files/DP09-04.htm). In *ISMRM*, 2020.
 1. T  Murrell, **MJ Muckley**, F Knoll, H Chandarana, DK Sodickson. [Self-supervised dynamic MR image reconstruction with a sequence-to-sequence NUFFT-CNN](https://www.ismrm.org/workshops/2020/Data/posters.htm). In *ISMRM Data Sampling & Image Reconstruction Workshop*, 2020.
 1. **MJ Muckley**, R Stern, T Murrell, F Knoll. [TorchKbNufft: A high-level, hardware-agnostic non-uniform fast Fourier transform](https://www.ismrm.org/workshops/2020/Data/program.php). In *ISMRM Data Sampling & Image Reconstruction Workshop*, 2020.
 1. **MJ Muckley**, A Papaioannou, B Ades-Aron, DK Sodickson, YW Lui, E Fieremans, DS Novikov, F Knoll. [Learned Gibbs removal in partial Fourier acquisitions for diffusion MRI](https://www.ismrm.org/19/program_files/DP13.htm). In *ISMRM*, page 3402, 2019.
