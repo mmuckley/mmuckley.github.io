@@ -12,11 +12,11 @@ You can also find my articles on my [Semantic Scholar Profile](https://www.seman
 ## Preprints
 
 1. A Sriram, **MJ Muckley**, K Sinha, F Shamout, J Pineau, KJ Geras, L Azour, Y Aphinyanaphongs, N Yakubova, W Moore. [COVID-19 Prognosis via Self-Supervised Representation Learning and Multi-Image Prediction](https://arxiv.org/abs/2101.04909). *arXiv preprint arXiv:2101.04909*, 2021. [[Preprint PDF]](https://arxiv.org/pdf/2101.04909.pdf)
-1. **MJ Muckley**, B Riemenschneider, A Radmanesh, S Kim, G Jeong, J Ko, Y Jun, H Shin, D Hwang, M Mostapha, *et al.* [State-of-the-art machine learning MRI reconstruction in 2020: Results of the second fastMRI challenge](https://arxiv.org/abs/2012.06318). *arXiv preprint arXiv:2012.06318*, 2020. [[Preprint PDF]](https://arxiv.org/pdf/2012.06318.pdf)
 1. J Zbontar, F Knoll, A Sriram, T Murrell, Z Huang, **MJ Muckley**, A Defazio, R Stern, P Johnson, M Bruno, *et al.* [fastMRI: An open dataset and benchmarks for accelerated MRI](https://arxiv.org/abs/1811.08839). *arXiv preprint arXiv:1811.08839*, 2018. [[Preprint PDF]](https://arxiv.org/pdf/1811.08839.pdf)
 
 ## Journal Articles
 
+1. **MJ Muckley**, B Riemenschneider, A Radmanesh, S Kim, G Jeong, J Ko, Y Jun, H Shin, D Hwang, M Mostapha, *et al.* [Results of the 2020 fastMRI Challenge for Machine Learning MR Image Reconstruction](https://doi.org/10.1109/TMI.2021.3075856). *IEEE Transactions on Medical Imaging*, 2021. In press. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9420272)
 1. **MJ Muckley**, B Ades-Aron, A Papaioannou, G Lemberskiy, E Solomon, YW Lui, DK Sodickson, E Fieremans, DS Novikov, F Knoll. [Training a neural network for Gibbs and noise removal in diffusion MRI](https://doi.org/10.1002/mrm.28395). *Magnetic Resonance in Medicine*, 85(1):413–428, 2021. [[Preprint PDF]](https://arxiv.org/pdf/1905.04176.pdf)
 1. F Knoll, T Murrell, A Sriram,  N Yakubova, J Zbontar, M Rabbat, A Defazio, **MJ Muckley**, DK Sodickson, CL Zitnick, MP Recht. [Advancing machine learning for MR image reconstruction with an open competition: Overview of the 2019 fastMRI challenge](https://doi.org/10.1002/mrm.28338). *Magnetic Resonance in Medicine*, 84(6):3054–3070, 2020. [[Preprint PDF]](https://arxiv.org/pdf/2001.02518.pdf)
 1. MP Recht, J Zbontar, DK Sodickson, F Knoll, N Yakubova, A Sriram, T Murrell, A Defazio, M Rabbat, L Rybak, *et al.*  [Using deep learning to accelerate knee MRI at 3 T: Results of an interchangeability study](https://doi.org/10.2214/AJR.20.23313). *American Journal of Roentgenology*, 215(6):1421–1429, 2020.
