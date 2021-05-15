@@ -3,4 +3,4 @@ title: "fastMRI"
 link: https://github.com/facebookresearch/fastMRI
 ---
 
-Dataloaders and deep learning models for accelerated MRI reconstruction.
+The central repository for the fastMRI NYU-FAIR collaboration. Includes dataloaders, trainers, and models.
