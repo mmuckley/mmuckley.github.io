@@ -50,7 +50,7 @@ You can also find my articles on my [Semantic Scholar Profile](https://www.seman
 
 ## Conference Abstracts
 
-1. B Riemenschneider, **MJ Muckley**, A Radmanesh, S Kim, G Jeong, J Ko, Y Jun, H Shin, D Hwang, M Mostapha, *et al.* Results of the 2020 fastMRI brain reconstruction challenge. In Proceedings of the International Society for Magnetic Resonance in Medicine, 2021. To appear.
+1. B Riemenschneider, **MJ Muckley**, A Radmanesh, S Kim, G Jeong, J Ko, Y Jun, H Shin, D Hwang, M Mostapha, *et al.* [Results of the 2020 fastMRI brain reconstruction challenge](https://www.ismrm.org/21/program-files/O-51.htm). In Proceedings of the International Society for Magnetic Resonance in Medicine, page 63, 2021.
 1. **MJ Muckley**, T Murrell, S Booshan, H Chandarana, F Knoll, DK Sodickson. [Unsupervised reconstruction of continuous dynamic radial acquisitions via CNN-NUFFT self-consistency](https://www.ismrm.org/20/program_files/DP09-04.htm). In *ISMRM*, 2020.
 1. T  Murrell, **MJ Muckley**, F Knoll, H Chandarana, DK Sodickson. [Self-supervised dynamic MR image reconstruction with a sequence-to-sequence NUFFT-CNN](https://www.ismrm.org/workshops/2020/Data/posters.htm). In *ISMRM Data Sampling & Image Reconstruction Workshop*, 2020.
 1. **MJ Muckley**, R Stern, T Murrell, F Knoll. [TorchKbNufft: A high-level, hardware-agnostic non-uniform fast Fourier transform](https://www.ismrm.org/workshops/2020/Data/program.php). In *ISMRM Data Sampling & Image Reconstruction Workshop*, 2020.
