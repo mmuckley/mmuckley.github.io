@@ -53,7 +53,7 @@ You can also find my articles on my [Semantic Scholar Profile](https://www.seman
 
 ## Conference Abstracts
 
-1. F Knoll, **MJ Muckley**, YW Lui, DK Sodickson. Insights into the reliability of deep learning reconstructions with research challenges. In *BASP Frontiers*, 2023. To appear
+1. F Knoll, **MJ Muckley**, YW Lui, DK Sodickson. Insights into the reliability of deep learning reconstructions with research challenges. In *BASP Frontiers*, 2023. To appear.
 1. **MJ Muckley**, T Murrell, A Radmanesh, F Knoll, Z Huang, A Sriram, DK Sodickson, YW Lui. [Properties of 2D MR image reconstructions with deep neural networks at high acceleration rates](https://archive.ismrm.org/2022/0849.html). In *ISMRM*, page 849, 2022.
 1. B Riemenschneider, **MJ Muckley**, A Radmanesh, S Kim, G Jeong, J Ko, Y Jun, H Shin, D Hwang, M Mostapha, *et al.* [Results of the 2020 fastMRI brain reconstruction challenge](https://archive.ismrm.org/2021/0063.html). In *ISMRM*, page 63, 2021.
 1. **MJ Muckley**, T Murrell, S Booshan, H Chandarana, F Knoll, DK Sodickson. [Unsupervised reconstruction of continuous dynamic radial acquisitions via CNN-NUFFT self-consistency](https://archive.ismrm.org/2020/3605.html). In *ISMRM*, page 3605, 2020.
