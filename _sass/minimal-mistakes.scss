@@ -1,5 +1,5 @@
 /*!
- * Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+ * Minimal Mistakes Jekyll Theme 4.21.0 by Michael Rose
  * Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
  * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
 */
@@ -36,5 +36,6 @@
 /* Layout specific */
 @import "minimal-mistakes/page";
 @import "minimal-mistakes/archive";
+@import "minimal-mistakes/publication";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
