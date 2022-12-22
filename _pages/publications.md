@@ -11,6 +11,7 @@ You can also find my articles on my [Semantic Scholar Profile](https://www.seman
 
 ## Preprints
 
+1. A El-Nouby, **MJ Muckley**, K Ullrich, I Laptev, J Verbeek, and H Jegou. [Image compression with product quantized masked image modeling](https://arxiv.org/abs/2212.07372). *arXiv preprint arXiv:2212.07372*, 2022. [[Preprint PDF]](https://arxiv.org/pdf/2212.07372.pdf)
 1. A Sriram\*, **MJ Muckley\***, K Sinha, F Shamout, J Pineau, KJ Geras, L Azour, Y Aphinyanaphongs, N Yakubova, W Moore. [COVID-19 Prognosis via Self-Supervised Representation Learning and Multi-Image Prediction](https://arxiv.org/abs/2101.04909). *arXiv preprint arXiv:2101.04909*, 2021. [[Preprint PDF]](https://arxiv.org/pdf/2101.04909.pdf)
 1. J Zbontar\*, F Knoll\*, A Sriram\*, T Murrell, Z Huang, **MJ Muckley**, A Defazio, R Stern, P Johnson, M Bruno, *et al.* [fastMRI: An open dataset and benchmarks for accelerated MRI](https://arxiv.org/abs/1811.08839). *arXiv preprint arXiv:1811.08839*, 2018. [[Preprint PDF]](https://arxiv.org/pdf/1811.08839.pdf)
 
