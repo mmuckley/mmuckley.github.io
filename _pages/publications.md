@@ -18,6 +18,7 @@ You can also find my articles on my [Semantic Scholar Profile](https://www.seman
 
 ## Journal Articles
 
+1. PM Johnson, DJ Lin, J Zbontar, CL Zitnick, A Sriram, **M Muckley**, JS Babb, M Kline, G Ciavarra, E Alaia, *et al.* [Deep Learning Reconstruction Enables Prospectively Accelerated Clinical Knee MRI](https://doi.org/10.1148/radiol.220425). *Radiology*, 2023.
 1. A Radmanesh\*, **MJ Muckley\***, T Murrell, E Lindsey, A Sriram, F Knoll, DK Sodickson, YW Lui. [Exploring the Acceleration Limits of Deep Learning Variational Network–based Two-dimensional Brain MRI](https://doi.org/10.1148/ryai.210313). *Radiology: Artificial Intelligence*, 4(6):e210313, 2022. [[PDF]](https://pubs.rsna.org/doi/epdf/10.1148/ryai.210313)
 1. **MJ Muckley\***, B Riemenschneider\*, A Radmanesh, S Kim, G Jeong, J Ko, Y Jun, H Shin, D Hwang, M Mostapha, *et al.* [Results of the 2020 fastMRI Challenge for Machine Learning MR Image Reconstruction](https://doi.org/10.1109/TMI.2021.3075856). *IEEE Transactions on Medical Imaging*, 40(9):2306-2317, 2021. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9420272)
 1. **MJ Muckley**, B Ades-Aron, A Papaioannou, G Lemberskiy, E Solomon, YW Lui, DK Sodickson, E Fieremans, DS Novikov, F Knoll. [Training a neural network for Gibbs and noise removal in diffusion MRI](https://doi.org/10.1002/mrm.28395). *Magnetic Resonance in Medicine*, 85(1):413–428, 2021. [[PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mrm.28395)
