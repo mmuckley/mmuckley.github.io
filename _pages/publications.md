@@ -11,6 +11,7 @@ You can also find my articles on my [Semantic Scholar Profile](https://www.seman
 
 ## Preprints
 
+1. **MJ Muckley**, A El-Nouby, K Ullrich, H Jegou, and J Verbeek. [Improving Statistical Fidelity for Neural Image Compression with Implicit Local Likelihood Models](https://arxiv.org/abs/2301.11189). *arXiv preprint arXiv:2301.11189* 2023. [[Preprint PDF]](https://arxiv.org/pdf/2301.11189.pdf)
 1. RTQ Chen, M Le, **M Muckley**, M Nickel, K Ullrich. [Latent discretization for continuous-time sequence compression](https://arxiv.org/abs/2212.13659). *arXiv preprint arXiv:2212.13659* 2022. [[Preprint PDF]](https://arxiv.org/pdf/2212.13659.pdf)
 1. A El-Nouby, **MJ Muckley**, K Ullrich, I Laptev, J Verbeek, H Jegou. [Image compression with product quantized masked image modeling](https://arxiv.org/abs/2212.07372). *arXiv preprint arXiv:2212.07372*, 2022. [[Preprint PDF]](https://arxiv.org/pdf/2212.07372.pdf)
 1. A Sriram\*, **MJ Muckley\***, K Sinha, F Shamout, J Pineau, KJ Geras, L Azour, Y Aphinyanaphongs, N Yakubova, W Moore. [COVID-19 Prognosis via Self-Supervised Representation Learning and Multi-Image Prediction](https://arxiv.org/abs/2101.04909). *arXiv preprint arXiv:2101.04909*, 2021. [[Preprint PDF]](https://arxiv.org/pdf/2101.04909.pdf)
