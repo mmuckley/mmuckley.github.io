@@ -11,7 +11,6 @@ You can also find my articles on my [Semantic Scholar Profile](https://www.seman
 
 ## Preprints
 
-1. **MJ Muckley**, A El-Nouby, K Ullrich, H Jegou, J Verbeek. [Improving Statistical Fidelity for Neural Image Compression with Implicit Local Likelihood Models](https://arxiv.org/abs/2301.11189). *arXiv preprint arXiv:2301.11189* 2023. [[Preprint PDF]](https://arxiv.org/pdf/2301.11189.pdf)
 1. RTQ Chen, M Le, **M Muckley**, M Nickel, K Ullrich. [Latent discretization for continuous-time sequence compression](https://arxiv.org/abs/2212.13659). *arXiv preprint arXiv:2212.13659* 2022. [[Preprint PDF]](https://arxiv.org/pdf/2212.13659.pdf)
 1. A Sriram\*, **MJ Muckley\***, K Sinha, F Shamout, J Pineau, KJ Geras, L Azour, Y Aphinyanaphongs, N Yakubova, W Moore. [COVID-19 Prognosis via Self-Supervised Representation Learning and Multi-Image Prediction](https://arxiv.org/abs/2101.04909). *arXiv preprint arXiv:2101.04909*, 2021. [[Preprint PDF]](https://arxiv.org/pdf/2101.04909.pdf)
 1. J Zbontar\*, F Knoll\*, A Sriram\*, T Murrell, Z Huang, **MJ Muckley**, A Defazio, R Stern, P Johnson, M Bruno, *et al.* [fastMRI: An open dataset and benchmarks for accelerated MRI](https://arxiv.org/abs/1811.08839). *arXiv preprint arXiv:1811.08839*, 2018. [[Preprint PDF]](https://arxiv.org/pdf/1811.08839.pdf)
@@ -36,6 +35,7 @@ You can also find my articles on my [Semantic Scholar Profile](https://www.seman
 
 ## High-Impact Conference Articles
 
+1. **MJ Muckley**, A El-Nouby, K Ullrich, H Jegou, J Verbeek. [Improving Statistical Fidelity for Neural Image Compression with Implicit Local Likelihood Models](https://arxiv.org/abs/2301.11189). In *ICML*, 2023. [[Preprint PDF]](https://arxiv.org/pdf/2301.11189.pdf)
 1. T  Bakker,  **MJ  Muckley**,  A Romero-Soriano,  M Drozdzal, L Pineda. [On learning adaptive acquisition policies for undersampled multi-coil MRI reconstruction](https://proceedings.mlr.press/v172/bakker22a.html). In *MIDL*, pages 63-85, 2022. [[PDF]](https://proceedings.mlr.press/v172/bakker22a/bakker22a.pdf)
 1. Z  Zhang, A Romero, **MJ  Muckley**, P Vincent, L Yang, M Drozdzal. [Reducing uncertainty in undersampled MRI reconstruction with active acquisition](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Reducing_Uncertainty_in_Undersampled_MRI_Reconstruction_With_Active_Acquisition_CVPR_2019_paper.html). In *CVPR*, pages 2049–2058, 2019. [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Reducing_Uncertainty_in_Undersampled_MRI_Reconstruction_With_Active_Acquisition_CVPR_2019_paper.pdf)
 
