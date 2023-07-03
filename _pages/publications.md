@@ -43,6 +43,7 @@ You can also find my articles on my [Semantic Scholar Profile](https://www.seman
 
 *Workshop and 4-page proceedings papers.*
 
+1. W Xu, **MJ Muckley**, Y Dubois, K Ullrich. Revisiting Associative Compression: I Can't Believe It's Not Better. In *ICML 2023 Workshop on Neural Compression*, 2023.
 1. PM Johnson, G Jeong, K Hammernik, J Schlemper, C Qin, J Duan, D Rueckert, J Lee, N Pezzotti, ED Weerdt, *et al.* [Evaluation of the Robustness of Learned MR Image Reconstruction to Systematic Deviations Between Training and Test Data for the Models from the fastMRI Challenge](https://doi.org/10.1007/978-3-030-88552-6_3). In *MICCAI MLMIR Workshop*, pages 25–34, 2021. [[Preprint PDF]](/assets/publications/2021johnsonevaluation.pdf)
 1. S Gong, **M Muckley**, N Wu, T Makino, GS Kim, L Heacock, L Moy, F Knoll, KJ Geras.   [Large-scale classification of breast MRI exams using deep convolutional networks](https://sites.google.com/view/med-neurips-2019/Abstracts). In *Medical Imaging Meets NeurIPS Workshop*, 2019. [[PDF]](/assets/publications/2019gonglarge.pdf)
 1. PM Johnson, **MJ Muckley**, M Bruno, E Kobler, K Hammernik, T Pock, F Knoll. [Joint multi-anatomy training of a variational network for reconstruction of accelerated magnetic  resonance  image  acquisitions](https://doi.org/10.1007/978-3-030-33843-5_7). In *MICCAI MLMIR Workshop*, pages 71–79, 2019. [[Preprint PDF]](/assets/publications/2019johnsonjoint.pdf)
