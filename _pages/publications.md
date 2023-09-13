@@ -33,7 +33,7 @@ You can also find my articles on my [Semantic Scholar Profile](https://www.seman
 1.  Z Zhong\*, **M Muckley\***, S Agcaoglu, ME Grisham, H Zhao, M Orth, MS Lilburn, O Akkus, DM Karcher. [The morphological, material-level, and ash properties of turkey femurs from 3 different genetic strains during production](https://doi.org/10.3382/ps.2012-02322). *Poultry Science*, 91(11):2736–2746, 2012. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0032579119397846/pdfft?md5=771ea6e04c9f1d6a7021a848823a9462&pid=1-s2.0-S0032579119397846-main.pdf)
 1.  Z Xu, X Sun, J Liu, Q Song, **M Muckley**, O Akkus, YL Kim. [Spectroscopic visualization of nanoscale deformation in bone: interaction of light with partially disordered nanostructure](https://dx.doi.org/10.1117%2F1.3514633). *Journal of Biomedical Optics*, 15(6):060503, 2010. [[PDF]](https://www.spiedigitallibrary.org/journalArticle/Download?fullDOI=10.1117%2F1.3514633)
 
-## High-Impact Conference Articles
+## Conference Articles
 
 1. **MJ Muckley**, A El-Nouby, K Ullrich, H Jegou, J Verbeek. [Improving Statistical Fidelity for Neural Image Compression with Implicit Local Likelihood Models](https://proceedings.mlr.press/v202/muckley23a.html). In *ICML*, pages 25426-25443, 2023. [[PDF]](https://proceedings.mlr.press/v202/muckley23a/muckley23a.pdf)
 1. T  Bakker,  **MJ  Muckley**,  A Romero-Soriano,  M Drozdzal, L Pineda. [On learning adaptive acquisition policies for undersampled multi-coil MRI reconstruction](https://proceedings.mlr.press/v172/bakker22a.html). In *MIDL*, pages 63-85, 2022. [[PDF]](https://proceedings.mlr.press/v172/bakker22a/bakker22a.pdf)
