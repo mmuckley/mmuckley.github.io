@@ -7,7 +7,7 @@ toc_sticky: true
 toc_label: "Publication Type"
 ---
 
-You can also find my articles on my [Semantic Scholar Profile](https://www.semanticscholar.org/author/Matthew-Muckley/2954796).
+You can also find my articles on my [Google Scholar Profile](https://scholar.google.com/citations?user=Iz9v6dcAAAAJ).
 
 ## Preprints
 
