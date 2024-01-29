@@ -11,6 +11,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 ## Preprints
 
+1. I Huijben, M Douze, **M Muckley**, RV Sloun, J Verbeek. [Residual Quantization with Implicit Neural Codebooks](https://arxiv.org/abs/2401.14732). *arXiv preprint arXiv:2401.14732*, 2024. [[Preprint PDF]](https://arxiv.org/pdf/2401.14732.pdf)
 1. A Pokle, **MJ Muckley**, RTQ Chen, B Karrer. [Training-free Linear Image Inversion via Flows](https://arxiv.org/abs/2310.04432). *arXiv preprint arXiv:2310.04432*, 2023. [[Preprint PDF]](https://arxiv.org/pdf/2310.04432.pdf)
 1. RTQ Chen, M Le, **M Muckley**, M Nickel, K Ullrich. [Latent discretization for continuous-time sequence compression](https://arxiv.org/abs/2212.13659). *arXiv preprint arXiv:2212.13659* 2022. [[Preprint PDF]](https://arxiv.org/pdf/2212.13659.pdf)
 1. A Sriram\*, **MJ Muckley\***, K Sinha, F Shamout, J Pineau, KJ Geras, L Azour, Y Aphinyanaphongs, N Yakubova, W Moore. [COVID-19 Prognosis via Self-Supervised Representation Learning and Multi-Image Prediction](https://arxiv.org/abs/2101.04909). *arXiv preprint arXiv:2101.04909*, 2021. [[Preprint PDF]](https://arxiv.org/pdf/2101.04909.pdf)
