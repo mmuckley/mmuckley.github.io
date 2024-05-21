@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 ## Preprints
 
-1. I Huijben, M Douze, **M Muckley**, RV Sloun, J Verbeek. [Residual Quantization with Implicit Neural Codebooks](https://arxiv.org/abs/2401.14732). *arXiv preprint arXiv:2401.14732*, 2024. [[Preprint PDF]](https://arxiv.org/pdf/2401.14732.pdf)
+1. T Moutakanni, P Bojanowski, G Chassagnon, C Hudelot, A Joulin, Y LeCun, **M Muckley**, M Oquab, MP Revel, M Vakalopoulou. [Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning](https://arxiv.org/abs/2405.01469). *arXiv preprint arXiv:2405.01469*. 2024. [[Preprint PDF]](https://arxiv.org/pdf/2405.01469)
 1. A Pokle, **MJ Muckley**, RTQ Chen, B Karrer. [Training-free Linear Image Inversion via Flows](https://arxiv.org/abs/2310.04432). *arXiv preprint arXiv:2310.04432*, 2023. [[Preprint PDF]](https://arxiv.org/pdf/2310.04432.pdf)
 1. RTQ Chen, M Le, **M Muckley**, M Nickel, K Ullrich. [Latent discretization for continuous-time sequence compression](https://arxiv.org/abs/2212.13659). *arXiv preprint arXiv:2212.13659* 2022. [[Preprint PDF]](https://arxiv.org/pdf/2212.13659.pdf)
 1. A Sriram\*, **MJ Muckley\***, K Sinha, F Shamout, J Pineau, KJ Geras, L Azour, Y Aphinyanaphongs, N Yakubova, W Moore. [COVID-19 Prognosis via Self-Supervised Representation Learning and Multi-Image Prediction](https://arxiv.org/abs/2101.04909). *arXiv preprint arXiv:2101.04909*, 2021. [[Preprint PDF]](https://arxiv.org/pdf/2101.04909.pdf)
@@ -19,8 +19,11 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 ## Journal Articles
 
+1. II Giannakopoulos, **MJ Muckley**, J Kim, M Breen, PM Johnson,
+YW Lui, R Lattanzi. [Accelerated MRI reconstructions via variational net-
+work and feature domain learning](https://doi.org/10.1038/s41598-024-59705-0). *Scientific Reports* 14(1):10991, 2024. [[PDF]](https://www.nature.com/articles/s41598-024-59705-0.pdf)
 1. A El-Nouby, **MJ Muckley**, K Ullrich, I Laptev, J Verbeek, H Jegou. [Image Compression with Product Quantized Masked Image Modeling](https://openreview.net/forum?id=Z2L5d9ay4B). *Transactions on Machine Learning Research*, 2023. [[PDF]](https://openreview.net/pdf?id=Z2L5d9ay4B)
-1. PM Johnson, DJ Lin, J Zbontar, CL Zitnick, A Sriram, **M Muckley**, JS Babb, M Kline, G Ciavarra, E Alaia, *et al.* [Deep Learning Reconstruction Enables Prospectively Accelerated Clinical Knee MRI](https://doi.org/10.1148/radiol.220425). *Radiology*, 2023. [[PDF](https://pubs.rsna.org/doi/epdf/10.1148/radiol.220425)]
+1. PM Johnson, DJ Lin, J Zbontar, CL Zitnick, A Sriram, **M Muckley**, JS Babb, M Kline, G Ciavarra, E Alaia, *et al.* [Deep Learning Reconstruction Enables Prospectively Accelerated Clinical Knee MRI](https://doi.org/10.1148/radiol.220425). *Radiology*, 307(2):e220425, 2023. [[PDF](https://pubs.rsna.org/doi/epdf/10.1148/radiol.220425)]
 1. A Radmanesh\*, **MJ Muckley\***, T Murrell, E Lindsey, A Sriram, F Knoll, DK Sodickson, YW Lui. [Exploring the Acceleration Limits of Deep Learning Variational Network–based Two-dimensional Brain MRI](https://doi.org/10.1148/ryai.210313). *Radiology: Artificial Intelligence*, 4(6):e210313, 2022. [[PDF]](https://pubs.rsna.org/doi/epdf/10.1148/ryai.210313)
 1. **MJ Muckley\***, B Riemenschneider\*, A Radmanesh, S Kim, G Jeong, J Ko, Y Jun, H Shin, D Hwang, M Mostapha, *et al.* [Results of the 2020 fastMRI Challenge for Machine Learning MR Image Reconstruction](https://doi.org/10.1109/TMI.2021.3075856). *IEEE Transactions on Medical Imaging*, 40(9):2306-2317, 2021. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9420272)
 1. **MJ Muckley**, B Ades-Aron, A Papaioannou, G Lemberskiy, E Solomon, YW Lui, DK Sodickson, E Fieremans, DS Novikov, F Knoll. [Training a neural network for Gibbs and noise removal in diffusion MRI](https://doi.org/10.1002/mrm.28395). *Magnetic Resonance in Medicine*, 85(1):413–428, 2021. [[PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mrm.28395)
@@ -37,6 +40,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 ## Conference Articles
 
+1. I Huijben, M Douze, **M Muckley**, RV Sloun, J Verbeek. [Residual Quantization with Implicit Neural Codebooks](https://arxiv.org/abs/2401.14732). In *ICML*, 2024. [[Preprint PDF]](https://arxiv.org/pdf/2401.14732.pdf)
 1. M Careil, **MJ Muckley**, J Verbeek, S Lathuilière. [Towards image compression with perfect realism at ultra-low bitrates](https://openreview.net/forum?id=ktdETU9JBg). In *ICLR*, 2024. [[PDF]](https://openreview.net/pdf?id=ktdETU9JBg)
 1. **MJ Muckley**, A El-Nouby, K Ullrich, H Jegou, J Verbeek. [Improving Statistical Fidelity for Neural Image Compression with Implicit Local Likelihood Models](https://proceedings.mlr.press/v202/muckley23a.html). In *ICML*, pages 25426-25443, 2023. [[PDF]](https://proceedings.mlr.press/v202/muckley23a/muckley23a.pdf)
 1. T  Bakker,  **MJ  Muckley**,  A Romero-Soriano,  M Drozdzal, L Pineda. [On learning adaptive acquisition policies for undersampled multi-coil MRI reconstruction](https://proceedings.mlr.press/v172/bakker22a.html). In *MIDL*, pages 63-85, 2022. [[PDF]](https://proceedings.mlr.press/v172/bakker22a/bakker22a.pdf)
