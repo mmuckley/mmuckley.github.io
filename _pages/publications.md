@@ -12,16 +12,14 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 ## Preprints
 
 1. T Moutakanni, P Bojanowski, G Chassagnon, C Hudelot, A Joulin, Y LeCun, **M Muckley**, M Oquab, MP Revel, M Vakalopoulou. [Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning](https://arxiv.org/abs/2405.01469). *arXiv preprint arXiv:2405.01469*. 2024. [[Preprint PDF]](https://arxiv.org/pdf/2405.01469)
-1. A Pokle, **MJ Muckley**, RTQ Chen, B Karrer. [Training-free Linear Image Inversion via Flows](https://arxiv.org/abs/2310.04432). *arXiv preprint arXiv:2310.04432*, 2023. [[Preprint PDF]](https://arxiv.org/pdf/2310.04432.pdf)
 1. RTQ Chen, M Le, **M Muckley**, M Nickel, K Ullrich. [Latent discretization for continuous-time sequence compression](https://arxiv.org/abs/2212.13659). *arXiv preprint arXiv:2212.13659* 2022. [[Preprint PDF]](https://arxiv.org/pdf/2212.13659.pdf)
 1. A Sriram\*, **MJ Muckley\***, K Sinha, F Shamout, J Pineau, KJ Geras, L Azour, Y Aphinyanaphongs, N Yakubova, W Moore. [COVID-19 Prognosis via Self-Supervised Representation Learning and Multi-Image Prediction](https://arxiv.org/abs/2101.04909). *arXiv preprint arXiv:2101.04909*, 2021. [[Preprint PDF]](https://arxiv.org/pdf/2101.04909.pdf)
 1. J Zbontar\*, F Knoll\*, A Sriram\*, T Murrell, Z Huang, **MJ Muckley**, A Defazio, R Stern, P Johnson, M Bruno, *et al.* [fastMRI: An open dataset and benchmarks for accelerated MRI](https://arxiv.org/abs/1811.08839). *arXiv preprint arXiv:1811.08839*, 2018. [[Preprint PDF]](https://arxiv.org/pdf/1811.08839.pdf)
 
 ## Journal Articles
 
-1. II Giannakopoulos, **MJ Muckley**, J Kim, M Breen, PM Johnson,
-YW Lui, R Lattanzi. [Accelerated MRI reconstructions via variational net-
-work and feature domain learning](https://doi.org/10.1038/s41598-024-59705-0). *Scientific Reports* 14(1):10991, 2024. [[PDF]](https://www.nature.com/articles/s41598-024-59705-0.pdf)
+1. A Pokle, **MJ Muckley**, RTQ Chen, B Karrer. [Training-free linear image inverses via flows](https://openreview.net/forum?id=PLIt3a4yTm). *arXiv preprint arXiv:2310.04432*, 2023. [[PDF]](https://openreview.net/pdf?id=PLIt3a4yTm)
+1. II Giannakopoulos, **MJ Muckley**, J Kim, M Breen, PM Johnson, YW Lui, R Lattanzi. [Accelerated MRI reconstructions via variational net-work and feature domain learning](https://doi.org/10.1038/s41598-024-59705-0). *Scientific Reports* 14(1):10991, 2024. [[PDF]](https://www.nature.com/articles/s41598-024-59705-0.pdf)
 1. A El-Nouby, **MJ Muckley**, K Ullrich, I Laptev, J Verbeek, H Jegou. [Image Compression with Product Quantized Masked Image Modeling](https://openreview.net/forum?id=Z2L5d9ay4B). *Transactions on Machine Learning Research*, 2023. [[PDF]](https://openreview.net/pdf?id=Z2L5d9ay4B)
 1. PM Johnson, DJ Lin, J Zbontar, CL Zitnick, A Sriram, **M Muckley**, JS Babb, M Kline, G Ciavarra, E Alaia, *et al.* [Deep Learning Reconstruction Enables Prospectively Accelerated Clinical Knee MRI](https://doi.org/10.1148/radiol.220425). *Radiology*, 307(2):e220425, 2023. [[PDF](https://pubs.rsna.org/doi/epdf/10.1148/radiol.220425)]
 1. A Radmanesh\*, **MJ Muckley\***, T Murrell, E Lindsey, A Sriram, F Knoll, DK Sodickson, YW Lui. [Exploring the Acceleration Limits of Deep Learning Variational Network–based Two-dimensional Brain MRI](https://doi.org/10.1148/ryai.210313). *Radiology: Artificial Intelligence*, 4(6):e210313, 2022. [[PDF]](https://pubs.rsna.org/doi/epdf/10.1148/ryai.210313)
