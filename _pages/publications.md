@@ -18,7 +18,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 ## Journal Articles
 
-1. A Pokle, **MJ Muckley**, RTQ Chen, B Karrer. [Training-free linear image inverses via flows](https://openreview.net/forum?id=PLIt3a4yTm). *arXiv preprint arXiv:2310.04432*, 2023. [[PDF]](https://openreview.net/pdf?id=PLIt3a4yTm)
+1. A Pokle, **MJ Muckley**, RTQ Chen, B Karrer. [Training-free linear image inverses via flows](https://openreview.net/forum?id=PLIt3a4yTm). *Transactions on Machine Learning Research*, 2024. [[PDF]](https://openreview.net/pdf?id=PLIt3a4yTm)
 1. II Giannakopoulos, **MJ Muckley**, J Kim, M Breen, PM Johnson, YW Lui, R Lattanzi. [Accelerated MRI reconstructions via variational net-work and feature domain learning](https://doi.org/10.1038/s41598-024-59705-0). *Scientific Reports* 14(1):10991, 2024. [[PDF]](https://www.nature.com/articles/s41598-024-59705-0.pdf)
 1. A El-Nouby, **MJ Muckley**, K Ullrich, I Laptev, J Verbeek, H Jegou. [Image Compression with Product Quantized Masked Image Modeling](https://openreview.net/forum?id=Z2L5d9ay4B). *Transactions on Machine Learning Research*, 2023. [[PDF]](https://openreview.net/pdf?id=Z2L5d9ay4B)
 1. PM Johnson, DJ Lin, J Zbontar, CL Zitnick, A Sriram, **M Muckley**, JS Babb, M Kline, G Ciavarra, E Alaia, *et al.* [Deep Learning Reconstruction Enables Prospectively Accelerated Clinical Knee MRI](https://doi.org/10.1148/radiol.220425). *Radiology*, 307(2):e220425, 2023. [[PDF](https://pubs.rsna.org/doi/epdf/10.1148/radiol.220425)]
