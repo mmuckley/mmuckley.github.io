@@ -11,6 +11,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 ## Preprints
 
+1. P Astolfi, M Careil, M Hall, O Manas, **M Muckley**, J Verbeek, AR Soriano, M Drozdzal. [Consistency-diversity-realism Pareto fronts of conditional image generative models](https://arxiv.org/abs/2406.10429). *arXiv preprint arXiv:2406.10429*. 2024. [[Preprint PDF]](https://arxiv.org/pdf/2406.10429)
 1. T Moutakanni, P Bojanowski, G Chassagnon, C Hudelot, A Joulin, Y LeCun, **M Muckley**, M Oquab, MP Revel, M Vakalopoulou. [Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning](https://arxiv.org/abs/2405.01469). *arXiv preprint arXiv:2405.01469*. 2024. [[Preprint PDF]](https://arxiv.org/pdf/2405.01469)
 1. RTQ Chen, M Le, **M Muckley**, M Nickel, K Ullrich. [Latent discretization for continuous-time sequence compression](https://arxiv.org/abs/2212.13659). *arXiv preprint arXiv:2212.13659* 2022. [[Preprint PDF]](https://arxiv.org/pdf/2212.13659.pdf)
 1. A Sriram\*, **MJ Muckley\***, K Sinha, F Shamout, J Pineau, KJ Geras, L Azour, Y Aphinyanaphongs, N Yakubova, W Moore. [COVID-19 Prognosis via Self-Supervised Representation Learning and Multi-Image Prediction](https://arxiv.org/abs/2101.04909). *arXiv preprint arXiv:2101.04909*, 2021. [[Preprint PDF]](https://arxiv.org/pdf/2101.04909.pdf)
@@ -48,6 +49,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 *Workshop and 4-page proceedings papers.*
 
+1. B Phan, M Havasi, **M Muckley**, K Ullrich. [Understanding and Mitigating Tokenization Bias in Language Models](https://openreview.net/forum?id=OqfdrBj1y1). In *ICML 2024 Workshop on Theoretical Foundations of Foundation Models*. 2024. [[Preprint PDF]](https://arxiv.org/pdf/2406.16829).
 1. W Xu, **MJ Muckley**, Y Dubois, K Ullrich. [Revisiting Associative Compression: I Can't Believe It's Not Better](https://openreview.net/forum?id=50JXLnojkt). In *ICML 2023 Workshop on Neural Compression*, 2023. [[PDF]](https://openreview.net/pdf?id=50JXLnojkt)
 1. PM Johnson, G Jeong, K Hammernik, J Schlemper, C Qin, J Duan, D Rueckert, J Lee, N Pezzotti, ED Weerdt, *et al.* [Evaluation of the Robustness of Learned MR Image Reconstruction to Systematic Deviations Between Training and Test Data for the Models from the fastMRI Challenge](https://doi.org/10.1007/978-3-030-88552-6_3). In *MICCAI MLMIR Workshop*, pages 25–34, 2021. [[Preprint PDF]](/assets/publications/2021johnsonevaluation.pdf)
 1. S Gong, **M Muckley**, N Wu, T Makino, GS Kim, L Heacock, L Moy, F Knoll, KJ Geras.   [Large-scale classification of breast MRI exams using deep convolutional networks](https://sites.google.com/view/med-neurips-2019/Abstracts). In *Medical Imaging Meets NeurIPS Workshop*, 2019. [[PDF]](/assets/publications/2019gonglarge.pdf)
