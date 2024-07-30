@@ -73,6 +73,8 @@ yandex_site_verification : "04d732c42d8613a4"
 naver_site_verification  :
 
 # Social Sharing
+threads:
+  username               : "mattmucklm"
 twitter:
   username               : "mattmucklm"
 facebook:
@@ -92,6 +94,7 @@ social:
     - "https://scholar.google.com/citations?user=Iz9v6dcAAAAJ"
     - "https://www.semanticscholar.org/author/Matthew-Muckley/2954796"
     - "https://orcid.org/0000-0002-6525-8817"
+    - "https://www.threads.net/@mattmucklm"
 
 # Analytics
 analytics:
@@ -115,6 +118,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+    - label: "Threads"
+      icon: "fa-brands fa-threads"
+      url: https://www.threads.net/@mattmucklm
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mattmucklm"
@@ -134,9 +140,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mattmucklm"
+    - label: "Threads"
+      icon: "fa-brands fa-threads"
+      url: https://www.threads.net/@mattmucklm
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
