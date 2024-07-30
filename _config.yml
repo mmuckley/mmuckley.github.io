@@ -119,7 +119,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Threads"
-      icon: "fa-brands fa-threads"
+      icon: "fa-brands fa-square-threads"
       url: https://www.threads.net/@mattmucklm
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
