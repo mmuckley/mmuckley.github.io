@@ -11,6 +11,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 ## Preprints
 
+1. B Phan, B Amos, I Gat, M Havasi, **M Muckley**, K Ullrich. [Exact Byte-Level Probabilities from Tokenized Language Models for FIM-Tasks and Model Ensembles](https://arxiv.org/abs/2410.09303). *arXiv preprint arXiv:2410.09303* 2024. [[Preprint PDF]](https://arxiv.org/pdf/2410.09303)
 1. P Astolfi, M Careil, M Hall, O Manas, **M Muckley**, J Verbeek, AR Soriano, M Drozdzal. [Consistency-diversity-realism Pareto fronts of conditional image generative models](https://arxiv.org/abs/2406.10429). *arXiv preprint arXiv:2406.10429*. 2024. [[Preprint PDF]](https://arxiv.org/pdf/2406.10429)
 1. T Moutakanni, P Bojanowski, G Chassagnon, C Hudelot, A Joulin, Y LeCun, **M Muckley**, M Oquab, MP Revel, M Vakalopoulou. [Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning](https://arxiv.org/abs/2405.01469). *arXiv preprint arXiv:2405.01469*. 2024. [[Preprint PDF]](https://arxiv.org/pdf/2405.01469)
 1. RTQ Chen, M Le, **M Muckley**, M Nickel, K Ullrich. [Latent discretization for continuous-time sequence compression](https://arxiv.org/abs/2212.13659). *arXiv preprint arXiv:2212.13659* 2022. [[Preprint PDF]](https://arxiv.org/pdf/2212.13659.pdf)
