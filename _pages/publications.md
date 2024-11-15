@@ -40,7 +40,8 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 ## Conference Articles
 
-1. I Huijben, M Douze, **M Muckley**, RV Sloun, J Verbeek. [Residual Quantization with Implicit Neural Codebooks](https://arxiv.org/abs/2401.14732). In *ICML*, 2024. [[Preprint PDF]](https://arxiv.org/pdf/2401.14732.pdf)
+1. T Berrada, P Astolfi, M Hall, RA Hemmat, Y Benchetrit, M Havasi, **MJ Muckley**, K Alahari, A Romero-Soriano, J Verbeek, *et al.* [On improved Conditioning Mechanisms and Pre-training Strategies for Diffusion Models](https://openreview.net/forum?id=B3rZZRALhk). In *NeurIPS*, 2024. [[PDF]](https://openreview.net/pdf?id=B3rZZRALhk)
+1. I Huijben, M Douze, **M Muckley**, RV Sloun, J Verbeek. [Residual Quantization with Implicit Neural Codebooks](https://proceedings.mlr.press/v235/huijben24a.html). In *ICML*, 2024. [[PDF]](https://raw.githubusercontent.com/mlresearch/v235/main/assets/huijben24a/huijben24a.pdf)
 1. M Careil, **MJ Muckley**, J Verbeek, S Lathuilière. [Towards image compression with perfect realism at ultra-low bitrates](https://openreview.net/forum?id=ktdETU9JBg). In *ICLR*, 2024. [[PDF]](https://openreview.net/pdf?id=ktdETU9JBg)
 1. **MJ Muckley**, A El-Nouby, K Ullrich, H Jegou, J Verbeek. [Improving Statistical Fidelity for Neural Image Compression with Implicit Local Likelihood Models](https://proceedings.mlr.press/v202/muckley23a.html). In *ICML*, pages 25426-25443, 2023. [[PDF]](https://proceedings.mlr.press/v202/muckley23a/muckley23a.pdf)
 1. T  Bakker,  **MJ  Muckley**,  A Romero-Soriano,  M Drozdzal, L Pineda. [On learning adaptive acquisition policies for undersampled multi-coil MRI reconstruction](https://proceedings.mlr.press/v172/bakker22a.html). In *MIDL*, pages 63-85, 2022. [[PDF]](https://proceedings.mlr.press/v172/bakker22a/bakker22a.pdf)
