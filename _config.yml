@@ -75,8 +75,8 @@ naver_site_verification  :
 # Social Sharing
 threads:
   username               : "mattmucklm"
-twitter:
-  username               : "mattmucklm"
+bluesky:
+  username               : "mattmucklm.bsky.social"
 facebook:
   username               :
   app_id                 :
@@ -95,6 +95,7 @@ social:
     - "https://www.semanticscholar.org/author/Matthew-Muckley/2954796"
     - "https://orcid.org/0000-0002-6525-8817"
     - "https://www.threads.net/@mattmucklm"
+    - "https://bsky.app/profile/mattmucklm.bsky.social"
 
 # Analytics
 analytics:
@@ -118,12 +119,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: https://bsky.app/profile/mattmucklm.bsky.social
     - label: "Threads"
       icon: "fab fa-fw fa-threads-square"
       url: https://www.threads.net/@mattmucklm
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mattmucklm"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/matthew-muckley-33a9b558"
@@ -140,6 +141,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: https://bsky.app/profile/mattmucklm.bsky.social
     - label: "Threads"
       icon: "fab fa-fw fa-threads-square"
       url: https://www.threads.net/@mattmucklm
