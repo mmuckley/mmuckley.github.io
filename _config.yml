@@ -138,7 +138,7 @@ author:
       icon: "fab fa-fw fa-bluesky"
       url: https://bsky.app/profile/mattmucklm.bsky.social
     - label: "Threads"
-      icon: "fab fa-fw fa-threads-square"
+      icon: "fab fa-fw fa-threads"
       url: https://www.threads.net/@mattmucklm
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
@@ -160,7 +160,7 @@ footer:
       icon: "fab fa-fw fa-bluesky"
       url: https://bsky.app/profile/mattmucklm.bsky.social
     - label: "Threads"
-      icon: "fab fa-fw fa-threads-square"
+      icon: "fab fa-fw fa-threads"
       url: https://www.threads.net/@mattmucklm
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
