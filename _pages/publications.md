@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 ## Preprints
 
-1. B Phan, B Amos, I Gat, M Havasi, **M Muckley**, K Ullrich. [Exact Byte-Level Probabilities from Tokenized Language Models for FIM-Tasks and Model Ensembles](https://arxiv.org/abs/2410.09303). *arXiv preprint arXiv:2410.09303* 2024. [[Preprint PDF]](https://arxiv.org/pdf/2410.09303)
+1. D Severo, G Ottaviano, **M Muckley**, K Ullrich, M Douze. [Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2501.10479). *arXiv preprint arXiv:2501.10479*. 2025. [[Preprint PDF]](https://arxiv.org/pdf/2501.10479)
 1. P Astolfi, M Careil, M Hall, O Manas, **M Muckley**, J Verbeek, AR Soriano, M Drozdzal. [Consistency-diversity-realism Pareto fronts of conditional image generative models](https://arxiv.org/abs/2406.10429). *arXiv preprint arXiv:2406.10429*. 2024. [[Preprint PDF]](https://arxiv.org/pdf/2406.10429)
 1. T Moutakanni, P Bojanowski, G Chassagnon, C Hudelot, A Joulin, Y LeCun, **M Muckley**, M Oquab, MP Revel, M Vakalopoulou. [Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning](https://arxiv.org/abs/2405.01469). *arXiv preprint arXiv:2405.01469*. 2024. [[Preprint PDF]](https://arxiv.org/pdf/2405.01469)
 1. RTQ Chen, M Le, **M Muckley**, M Nickel, K Ullrich. [Latent discretization for continuous-time sequence compression](https://arxiv.org/abs/2212.13659). *arXiv preprint arXiv:2212.13659* 2022. [[Preprint PDF]](https://arxiv.org/pdf/2212.13659.pdf)
@@ -40,6 +40,10 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 ## Conference Articles
 
+1. T Vallaeys, **MJ Muckley**, J Verbeek, M Douze. [Qinco2: Vector Compression and Search with Improved Implicit Neural Codebooks](https://openreview.net/forum?id=2zMHHZ569S). In *ICLR*, 2025. [[PDF]](https://openreview.net/pdf?id=2zMHHZ569S)
+1. B Phan, B Amos, I Gat, M Havasi, **M Muckley**, K Ullrich. [Exact Byte-Level Probabilities from Tokenized Language Models for FIM-Tasks and Model Ensembles](https://openreview.net/forum?id=zGej22CBnS). In *ICLR*, 2025. [[PDF]](https://openreview.net/pdf?id=zGej22CBnS)
+1. **M Muckley**, M Havasi, J Verbeek, K Ullrich. [Architecture Optimizations for Improving Neural Image Compression Compute Complexity](https://datacompressionconference.org/Programs/DCC2025Program.pdf). In *DCC*, 2025.
+1. D Severo, J Su, ALiu, JJohnson, B Karrer, GV Broeck, **M Muckley**, K Ullrich. [Enhancing and Evaluating Probabilistic Circuits for High-Resolution Lossless Image Compression](https://datacompressionconference.org/Programs/DCC2025Program.pdf). In *DCC*, 2025.
 1. T Berrada, P Astolfi, M Hall, RA Hemmat, Y Benchetrit, M Havasi, **MJ Muckley**, K Alahari, A Romero-Soriano, J Verbeek, *et al.* [On improved Conditioning Mechanisms and Pre-training Strategies for Diffusion Models](https://openreview.net/forum?id=B3rZZRALhk). In *NeurIPS*, 2024. [[PDF]](https://openreview.net/pdf?id=B3rZZRALhk)
 1. I Huijben, M Douze, **M Muckley**, RV Sloun, J Verbeek. [Residual Quantization with Implicit Neural Codebooks](https://proceedings.mlr.press/v235/huijben24a.html). In *ICML*, 2024. [[PDF]](https://raw.githubusercontent.com/mlresearch/v235/main/assets/huijben24a/huijben24a.pdf)
 1. M Careil, **MJ Muckley**, J Verbeek, S Lathuilière. [Towards image compression with perfect realism at ultra-low bitrates](https://openreview.net/forum?id=ktdETU9JBg). In *ICLR*, 2024. [[PDF]](https://openreview.net/pdf?id=ktdETU9JBg)
