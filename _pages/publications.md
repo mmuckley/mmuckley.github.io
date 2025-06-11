@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 ## Preprints
 
-1. M Assran, A Bardes, D Fan, Q Garrido, R Howes, M Komeili, **M Muckley**, A Rizvi, C Roberts, K Sinha, et al. [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/). Tech. rep. FAIR at Meta, 2025.
+1. M Assran, A Bardes, D Fan, Q Garrido, R Howes, M Komeili, **M Muckley**, A Rizvi, C Roberts, K Sinha, *et al.* [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/). Tech. rep. FAIR at Meta, 2025.
 1. R Teotia, C Ross, K Ullrich, S Chopra, A Romero-Soriano, M Hall, and **MJ Muckley**. [DIMCIM: A Quantitative Evaluation Framework for Default-mode Diversity and Generalization in Text-to-Image Generative Models](https://arxiv.org/abs/2506.05108). *arXiv preprint arXiv:2506.05108*, 2025. [[Preprint PDF]](https://arxiv.org/pdf/2506.05108)
 1. D Severo, G Ottaviano, **M Muckley**, K Ullrich, M Douze. [Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2501.10479). *arXiv preprint arXiv:2501.10479*. 2025. [[Preprint PDF]](https://arxiv.org/pdf/2501.10479)
 1. P Astolfi, M Careil, M Hall, O Manas, **M Muckley**, J Verbeek, AR Soriano, M Drozdzal. [Consistency-diversity-realism Pareto fronts of conditional image generative models](https://arxiv.org/abs/2406.10429). *arXiv preprint arXiv:2406.10429*. 2024. [[Preprint PDF]](https://arxiv.org/pdf/2406.10429)
