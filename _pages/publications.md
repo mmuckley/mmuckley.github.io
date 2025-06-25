@@ -12,7 +12,6 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 ## Preprints
 
 1. M Assran, A Bardes, D Fan, Q Garrido, R Howes, M Komeili, **M Muckley**, A Rizvi, C Roberts, K Sinha, *et al.* [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985). *arXiv preprint arXiv:2506.09985*, 2025. [[Preprint PDF]](https://arxiv.org/pdf/2506.09985)
-1. R Teotia, C Ross, K Ullrich, S Chopra, A Romero-Soriano, M Hall, and **MJ Muckley**. [DIMCIM: A Quantitative Evaluation Framework for Default-mode Diversity and Generalization in Text-to-Image Generative Models](https://arxiv.org/abs/2506.05108). *arXiv preprint arXiv:2506.05108*, 2025. [[Preprint PDF]](https://arxiv.org/pdf/2506.05108)
 1. D Severo, G Ottaviano, **M Muckley**, K Ullrich, M Douze. [Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2501.10479). *arXiv preprint arXiv:2501.10479*. 2025. [[Preprint PDF]](https://arxiv.org/pdf/2501.10479)
 1. P Astolfi, M Careil, M Hall, O Manas, **M Muckley**, J Verbeek, AR Soriano, M Drozdzal. [Consistency-diversity-realism Pareto fronts of conditional image generative models](https://arxiv.org/abs/2406.10429). *arXiv preprint arXiv:2406.10429*. 2024. [[Preprint PDF]](https://arxiv.org/pdf/2406.10429)
 1. T Moutakanni, P Bojanowski, G Chassagnon, C Hudelot, A Joulin, Y LeCun, **M Muckley**, M Oquab, MP Revel, M Vakalopoulou. [Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning](https://arxiv.org/abs/2405.01469). *arXiv preprint arXiv:2405.01469*. 2024. [[Preprint PDF]](https://arxiv.org/pdf/2405.01469)
@@ -42,6 +41,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 ## Conference Articles
 
+1. R Teotia, C Ross, K Ullrich, S Chopra, A Romero-Soriano, M Hall, and **MJ Muckley**. [DIMCIM: A Quantitative Evaluation Framework for Default-mode Diversity and Generalization in Text-to-Image Generative Models](https://arxiv.org/abs/2506.05108). In *ICCV*, 2025. [[Preprint PDF]](https://arxiv.org/pdf/2506.05108)
 1. T Vallaeys, **MJ Muckley**, J Verbeek, M Douze. [Qinco2: Vector Compression and Search with Improved Implicit Neural Codebooks](https://openreview.net/forum?id=2zMHHZ569S). In *ICLR*, 2025. [[PDF]](https://openreview.net/pdf?id=2zMHHZ569S)
 1. B Phan, B Amos, I Gat, M Havasi, **M Muckley**, K Ullrich. [Exact Byte-Level Probabilities from Tokenized Language Models for FIM-Tasks and Model Ensembles](https://openreview.net/forum?id=zGej22CBnS). In *ICLR*, 2025. [[PDF]](https://openreview.net/pdf?id=zGej22CBnS)
 1. **M Muckley**, M Havasi, J Verbeek, K Ullrich. [Architecture Optimizations for Improving Neural Image Compression Compute Complexity](https://doi.org/10.1109/DCC62719.2025.00008). In *DCC*, 2025.
