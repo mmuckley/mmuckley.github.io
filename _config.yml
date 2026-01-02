@@ -331,7 +331,7 @@ compress_html:
 collections:
   opensource:
     output: true
-    permalink: /:collection/
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -347,7 +347,6 @@ defaults:
       comments: # true
       share: true
       related: true
-      permalink: /:title/
   # _pages
   - scope:
       path: "_pages"
