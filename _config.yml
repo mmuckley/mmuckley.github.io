@@ -24,7 +24,7 @@ title                    : "Matthew Muckley"
 title_separator          : # "-"
 subtitle                 : # "Research Engineer" # site tagline that appears below site title in masthead
 name                     : "Matthew Muckley"
-description              : "Research Engineer at Facebook AI Research"
+description              : "Research Engineer at Meta FAIR"
 url                      : https://mmuckley.github.io # https://mmuckley.github.io, http://localhost:4000
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mmuckley/mmuckley.github.io"
@@ -124,7 +124,7 @@ analytics:
 author:
   name             : "Matthew Muckley"
   avatar           : /assets/images/bio-photo.jpg
-  bio              : "Research Engineer<br>Meta AI"
+  bio              : "Research Engineer<br>Meta Fundamental AI Research"
   location         : "New York, NY"
   email            :
   links:

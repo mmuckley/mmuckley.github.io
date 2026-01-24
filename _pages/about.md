@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 ---
 
-I'm a research engineer on [the FAIR team at Meta AI](https://ai.facebook.com/research/). My background is in medical signal and image processing. I've worked on projects involving optical, X-ray CT, and MR imaging systems. In my free time I like to ride my bike around New York City, play video games, and read books about history.
+I'm a research engineer on [the FAIR team at Meta](https://ai.facebook.com/research/). My background is in medical signal and image processing. I've worked on projects involving optical, X-ray CT, and MR imaging systems. In my free time I like to ride my bike around New York City, play video games, and read books about history.
 
 ## Past Lives
 
